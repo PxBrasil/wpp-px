@@ -1,5 +1,5 @@
 export default {
-  secretKey: 'THISISMYSECURETOKEN',
+  secretKey: 'Px433$sucesso',
   host: 'http://localhost',
   port: '21465',
   deviceName: 'WppConnect',
